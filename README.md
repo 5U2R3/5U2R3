@@ -1,10 +1,37 @@
-## Hi there 👋
+<div align="center">
+  
+# Defensive Security · Network Security · Malware Analysis
 
-## About Me
+</div>
+
+<div align="center">
+
+[![Rank](https://img.shields.io/badge/🥇_CyberDefenders_JP_Country_Rank-%231-FFB000?style=for-the-badge&labelColor=3A2700)](https://cyberdefenders.org/p/5U2R3) 
+
+</div>
+
+---
+
+## 👤 About Me
+
 - 🔭 現在取り組んでいること：Defensive Security
-- 🌱 学習中：CyberDefenders
+- 🌱 学習コンテンツ：[CyberDefenders](https://cyberdefenders.org/p/5U2R3)
 - 💬 得意領域：Network Security & Malware Analysis
-- 📫 Twitter：5U2R3
+
+---
+
+## 🔗 Connect
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/@5U2R3-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/5U2R3)
+[![CyberDefenders](https://img.shields.io/badge/CyberDefenders-Profile-00A86B?style=for-the-badge&logo=hackthebox&logoColor=white)](https://cyberdefenders.org/p/5U2R3)
+
+</div>
+
+---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats-salesp07.vercel.app/api?username=5U2R3&show_icons=true)
+
+![Stats](https://github-readme-stats-salesp07.vercel.app/api?username=5U2R3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f78166)
+
