@@ -2,8 +2,8 @@
 
 # 5𝓸𝓾𝑓𝑓!𝓮́💚  
 
-[![Rank](https://img.shields.io/badge/🥇_CyberDefenders_JP_Country_Rank-%231-FFB000?style=for-the-badge&labelColor=3A2700)](https://cyberdefenders.org/p/5U2R3)
-[![Period](https://img.shields.io/badge/Period-2026.02_~_Present-3A2700?style=for-the-badge&labelColor=3A2700)](https://cyberdefenders.org/p/5U2R3)
+[![Rank](https://img.shields.io/badge/🥇_CyberDefenders_JP_Country_Rank-%231-FFB000?style=for-the-badge&labelColor=3A2700)](https://cyberdefenders.org/blueteam-ctf-challenges/leaderboard/?country=JP)
+[![Period](https://img.shields.io/badge/Period-2026.02_~_Present-3A2700?style=for-the-badge&labelColor=3A2700)](https://cyberdefenders.org/blueteam-ctf-challenges/leaderboard/?country=JP)
 
 [![Title](https://img.shields.io/badge/🛡_CyberDefenders：Title-GUARDIAN-1F6FEB?style=for-the-badge&labelColor=3A2700)](https://cyberdefenders.org/p/5U2R3)
 [![Title](https://img.shields.io/badge/🛡_TryHackMe：Title-Master-1F6FEB?style=for-the-badge&labelColor=3A2700)](https://cyberdefenders.org/p/5U2R3)
@@ -24,9 +24,9 @@
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/@5U2R3-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/5U2R3)
+[![Twitter](https://img.shields.io/badge/Twitter-@5U2R3-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/5U2R3)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-5U2R3-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/5U2R3)
-[![CyberDefenders](https://img.shields.io/badge/CyberDefenders-Profile-00A86B?style=for-the-badge&logo=hackthebox&logoColor=white)](https://cyberdefenders.org/p/5U2R3)
+[![CyberDefenders](https://img.shields.io/badge/CyberDefenders-5U2R3-00A86B?style=for-the-badge&logo=hackthebox&logoColor=white)](https://cyberdefenders.org/p/5U2R3)
 
 </div>
 
