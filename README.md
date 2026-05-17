@@ -6,8 +6,5 @@
 - 💬 得意領域：Network Security & Malware Analysis
 - 📫 Twitter：5U2R3
 
-## 🛡️ TryHackMe
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/5U2R3.png)](https://tryhackme.com/p/5U2R3)
-
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=5U2R3&show_icons=true)
+![Stats](https://github-readme-stats-salesp07.vercel.app/api?username=5U2R3&show_icons=true)
