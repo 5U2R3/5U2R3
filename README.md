@@ -15,7 +15,7 @@
 ## 👤 About Me
 
 - 🔭 現在取り組んでいること：Defensive Security
-- 🌱 学習コンテンツ：[CyberDefenders](https://cyberdefenders.org/p/5U2R3)
+- 🌱 学習コンテンツ：[CyberDefenders](https://cyberdefenders.org)
 - 💬 得意領域：Network Security & Malware Analysis
 
 ---
