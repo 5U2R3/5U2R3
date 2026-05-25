@@ -9,7 +9,7 @@
 <div align="center">
 
 [![Rank](https://img.shields.io/badge/🥇_CyberDefenders_JP_Country_Rank-%231-FFB000?style=for-the-badge&labelColor=3A2700)](https://cyberdefenders.org/blueteam-ctf-challenges/leaderboard/?country=JP)
-[![Period](https://img.shields.io/badge/Period-2026.02_~_Present-3A2700?style=for-the-badge&labelColor=3A2700)](https://cyberdefenders.org/blueteam-ctf-challenges/leaderboard/?country=JP)
+[![Period](https://img.shields.io/badge/Period-2026.02_~_2026.05-3A2700?style=for-the-badge&labelColor=3A2700)](https://cyberdefenders.org/blueteam-ctf-challenges/leaderboard/?country=JP)
 
 [![Title](https://img.shields.io/badge/🛡_CyberDefenders：Title-GUARDIAN-1F6FEB?style=for-the-badge&labelColor=3A2700)](https://cyberdefenders.org/p/5U2R3)
 [![Title](https://img.shields.io/badge/🛡_TryHackMe：Title-Master-1F6FEB?style=for-the-badge&labelColor=3A2700)](https://cyberdefenders.org/p/5U2R3)
